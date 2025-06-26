@@ -67,7 +67,7 @@ A basic CRUD REST API using Spring Boot and PostgreSQL.
 ## 📫 Contact
 
 - 📧 panneerselvam.dev@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/panneerselvam-arumugam-6b58b5105/)  
 - 🔗 [GitHub](https://github.com/yourusername)
 
 ---
