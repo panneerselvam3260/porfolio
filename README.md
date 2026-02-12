@@ -22,7 +22,7 @@ Worked on multiple government and enterprise applications across Tamil Nadu.
 
 | Category         | Tools & Frameworks                              |
 |------------------|--------------------------------------------------|
-| Programming      | Java 11/17                                       |
+| Programming      | Java 8/11/17                                       |
 | Backend          | Spring Boot, Spring MVC, Spring Data JPA         |
 | Database         | PostgreSQL, Oracle SQL                           |
 | Tools            | Maven, Git, Postman, Swagger, NetBeans, IntelliJ|
